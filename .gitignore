@@ -1,3 +1,4 @@
 /cleanread/
+/.codegraph/
 __pycache__/
 *.py[cod]
